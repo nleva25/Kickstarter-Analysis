@@ -6,10 +6,10 @@ An analysis to determine to what extent a campaign's success is contingent on it
 To analyze the relationship between a campaign's launch date and funding goal on it's overall success. 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes Based on Launch Date]("C:\Users\nleva\Desktop\gitrepos\Kickstarter-Analysis\Resources_for_Challenge\Theater_Outcomes_vs_Launch.png")
+![Outcomes Based on Launch Date](https://https://github.com/nleva25/Kickstarter-Analysis/blob/main/Resources_for_Challenge/Theater_Outcomes_vs_Launch.png)
 The data in the chart plots the number of successful, failed and canceled theater campaigns per month of launch. The analysis tries to determine if there is a relationship between the launch date of a theater campaign and it's overall fundraising success. The data in the chart has been filtered by the campaign parent category (theater) from the Kickstarter dataset and displayed during the month of the campaign launch date. While the number of failed and canceled outcomes appeared to be relatively consistent across all months with no clear trend, the number of successful campaigns seemed to peak in May with a slow and steady decline throughout the rest of the year.  
 ### Analysis of Outcomes Based on Goals
-![Outcomes Based on Goals]("C:\Users\nleva\Desktop\gitrepos\Kickstarter-Analysis\Resources_for_Challenge\Outcomes_vs_Goals.png")
+![Outcomes Based on Goals](https://https://github.com/nleva25/Kickstarter-Analysis/blob/main/Resources_for_Challenge/Outcomes_vs_Goals.png) 
 The data in the chart displays the percentage of total successful, failed and canceled campaigns according to specific fundraising goal intervals. The analysis tries to determine if there is a relationship between the fundraising goal for each campaign and it's overall success. The data in the chart has been filtered from the Kickstarter dataset to display the campaign outcome (successful, failed, canceled), goal amount (based on intervals found on x-axis) and subcategory (plays). Once the total amount of campaigns matching **each** of this criteria was tallied, it was displayed as a percentage of total successful, failed and canceled campaigns and plotted according to it's respective fundraising goal interval. 
 ### Challenges and Difficulties Encountered
 Challenges that could arise during this analysis include: 
