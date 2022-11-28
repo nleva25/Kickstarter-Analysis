@@ -25,7 +25,7 @@ Challenges that could arise during this analysis include:
 1) The data appears to suggest that the higher the fundraising goal, the more likely the campaign is to fail. Similarly, the more modest the goal, the more likely the campaign will be a success! 
 - What are some limitations of this dataset?
 1) There are some large fundraising goals for some campaigns, which may skew an average figure
-2) Most of the data belongs to only 2 countrys: US and GB
+2) Most of the data belongs to only 2 countries: US and GB
 - What are some other possible tables and/or graphs that we could create?
 1) A graph analyzing the average amount pledged per backer per subcategoy to determine if there is a more popular subcategory.
 2) A graph analzying the fundraising goal per Parent Category to determine which is the most costly category. 
